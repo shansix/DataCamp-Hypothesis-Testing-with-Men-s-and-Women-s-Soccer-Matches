@@ -1,4 +1,4 @@
-# DataCamp-Hypothesis-Testing-with-Men-s-and-Women-s-Soccer-Matches
+# DataCamp | Hypothesis Testing with Men's and Women's Soccer Matches
 
 This project is part of the **Associate Data Scientist in Python** career track on DataCamp. The primary objective is to conduct a hypothesis test to determine whether the mean number of goals scored in women's international soccer matches is significantly greater than in men's matches at a significance level of 0.1.
 
